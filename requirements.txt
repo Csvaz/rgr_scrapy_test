@@ -1,0 +1,2 @@
+Scrapy==2.2.0
+validators==0.15.0
