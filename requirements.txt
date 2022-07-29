@@ -1,2 +1,2 @@
-Scrapy==2.2.0
+Scrapy==2.6.2
 validators==0.15.0
